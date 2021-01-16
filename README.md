@@ -1,2 +1,0 @@
-# remont
-We mend mobile
