@@ -414,7 +414,7 @@ body {
   webkit-tap-highlight-color: #222222;
 }
 
-@media (max-width: 387px) {
+@media (max-width: 452px) {
 
 	.btn.btn-primary.btn-xl.page-scroll.uraloid {
 		margin-top:15px;
